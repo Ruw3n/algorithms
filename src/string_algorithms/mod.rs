@@ -1,1 +1,1 @@
-pub mod global_alignment;
+pub mod string_pattern_algorithms;
